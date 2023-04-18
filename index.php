@@ -51,11 +51,11 @@
 
 ?>
 <main>
-    <div class="hotel-appiccicati">
+    <!-- <div class="hotel-appiccicati">
         <?php var_dump($hotels) ?>
-    </div>
+    </div> -->
 
-    <div class="hotel-ordinati border border-1 w-75 m-auto">
+    <div class="hotel-ordinati border border-1 w-75 m-auto mt-5">
         <?php 
         foreach ($hotels as $alberghi){
         ?>
